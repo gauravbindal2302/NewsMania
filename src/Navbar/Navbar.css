@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(243, 243, 243);
+  padding: 25px 50px;
+  box-shadow: 1px 2px 4px #d1d1d1;
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1;
+}
+.navbar h1 {
+  font-size: 24px;
+  letter-spacing: 5px;
+  color: rgb(255, 68, 0);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
